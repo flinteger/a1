@@ -15,7 +15,7 @@
 
 ## 用户指南
 
-查看[用户指南](https://docs.a1blocker.com/#/zh-Hans/howto)。
+查看[用户指南](https://docs.a1blocker.com/#/zh-Hans/howtos)。
 
 ## FAQ
 
