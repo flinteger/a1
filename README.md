@@ -14,9 +14,9 @@
   </a>
 </p>
 
-# Flinteger A1
+# OmniLock
 
-**Flinteger A1** - Hide Apps, Block Apps, Reduce screen time, Block Ads, Trackers, Phishing, Adult Content etc.
+**OmniLock** - Screen time management: Hide Apps, Block Apps, Reduce screen time, Block Ads, Trackers, Phishing, Adult Content etc.
 
 - [URL Schemes](url-schemes.md)
 
@@ -78,11 +78,11 @@ Content blockers have no knowledge of users' history or the websites they visit.
 
 ### Passcode Lock
 
-Use passcode to lock your **Flinteger A1**.
+Use passcode to lock your **OmniLock**.
 
 ## About
 
-**Flinteger A1** is not an open source project, this repo is used to get feedback.
+**OmniLock** is not an open source project, this repo is used to get feedback.
 
 ## Contact
 
